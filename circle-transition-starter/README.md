@@ -1,4 +1,4 @@
-# custom_slider
+# circle-transition-starter
 
 A new Flutter application.
 
